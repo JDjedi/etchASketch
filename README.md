@@ -1,1 +1,1 @@
-# etch_a_sketch
+# This is a in browser etch-a-sketch game powered by JQuery
